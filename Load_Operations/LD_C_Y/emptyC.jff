@@ -1,104 +1,104 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>
-	<type>turing</type>
-	<automaton>
-		<!--The list of states.-->
-		<block id="0" name="q0">
-			<tag>Machine0</tag>
-			<x>297.0</x>
-			<y>198.0</y>
-		</block>
-		<block id="1" name="q1">
-			<tag>Machine1</tag>
-			<x>439.0</x>
-			<y>198.0</y>
-		</block>
-		<block id="2" name="q2">
-			<tag>Machine2</tag>
-			<x>132.0</x>
-			<y>198.0</y>
-			<initial/>
-		</block>
-		<block id="3" name="q3">
-			<tag>Machine3</tag>
-			<x>595.0</x>
-			<y>198.0</y>
-		</block>
-		<block id="4" name="q4">
-			<tag>Machine4</tag>
-			<x>747.0</x>
-			<y>198.0</y>
-			<final/>
-		</block>
-		<!--The list of transitions.-->
-		<transition>
-			<from>1</from>
-			<to>3</to>
-			<read/>
-			<write/>
-			<move>S</move>
-		</transition>
-		<transition>
-			<from>1</from>
-			<to>1</to>
-			<read>1</read>
-			<write/>
-			<move>R</move>
-		</transition>
-		<transition>
-			<from>2</from>
-			<to>0</to>
-			<read>~}w</read>
-			<write>@</write>
-			<move>S</move>
-		</transition>
-		<transition>
-			<from>3</from>
-			<to>3</to>
-			<read>!@</read>
-			<write>~</write>
-			<move>L</move>
-		</transition>
-		<transition>
-			<from>0</from>
-			<to>1</to>
-			<read>c</read>
-			<write>c</write>
-			<move>R</move>
-		</transition>
-		<transition>
-			<from>0</from>
-			<to>0</to>
-			<read>!c</read>
-			<write>~</write>
-			<move>R</move>
-		</transition>
-		<transition>
-			<from>3</from>
-			<to>4</to>
-			<read>@</read>
-			<write>w</write>
-			<move>S</move>
-		</transition>
-		<!--The list of automata-->
-		<Machine0/>
-		<Machine2/>
-		<Machine1/>
-		<Machine4/>
-		<Machine3/>
-		<note>
-			<text>Empty C</text>
-			<x>323.0</x>
-			<y>86.0</y>
-		</note>
-		<note>
-			<text>Save location in program</text>
-			<x>75.0</x>
-			<y>87.0</y>
-		</note>
-		<note>
-			<text>Return to saved location</text>
-			<x>478.0</x>
-			<y>87.0</y>
-		</note>
-	</automaton>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>&#13;
+	<type>turing</type>&#13;
+	<automaton>&#13;
+		<!--The list of states.-->&#13;
+		<block id="0" name="q0">&#13;
+			<tag>Machine0</tag>&#13;
+			<x>297.0</x>&#13;
+			<y>198.0</y>&#13;
+		</block>&#13;
+		<block id="1" name="q1">&#13;
+			<tag>Machine1</tag>&#13;
+			<x>439.0</x>&#13;
+			<y>198.0</y>&#13;
+		</block>&#13;
+		<block id="2" name="q2">&#13;
+			<tag>Machine2</tag>&#13;
+			<x>132.0</x>&#13;
+			<y>198.0</y>&#13;
+			<initial/>&#13;
+		</block>&#13;
+		<block id="3" name="q3">&#13;
+			<tag>Machine3</tag>&#13;
+			<x>595.0</x>&#13;
+			<y>198.0</y>&#13;
+		</block>&#13;
+		<block id="4" name="q4">&#13;
+			<tag>Machine4</tag>&#13;
+			<x>747.0</x>&#13;
+			<y>198.0</y>&#13;
+			<final/>&#13;
+		</block>&#13;
+		<!--The list of transitions.-->&#13;
+		<transition>&#13;
+			<from>1</from>&#13;
+			<to>1</to>&#13;
+			<read>1</read>&#13;
+			<write/>&#13;
+			<move>R</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>2</from>&#13;
+			<to>0</to>&#13;
+			<read>~}w</read>&#13;
+			<write>@</write>&#13;
+			<move>S</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>1</from>&#13;
+			<to>3</to>&#13;
+			<read/>&#13;
+			<write/>&#13;
+			<move>S</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>3</from>&#13;
+			<to>3</to>&#13;
+			<read>!@</read>&#13;
+			<write>~</write>&#13;
+			<move>L</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>0</from>&#13;
+			<to>1</to>&#13;
+			<read>c</read>&#13;
+			<write>c</write>&#13;
+			<move>R</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>0</from>&#13;
+			<to>0</to>&#13;
+			<read>!c</read>&#13;
+			<write>~</write>&#13;
+			<move>R</move>&#13;
+		</transition>&#13;
+		<transition>&#13;
+			<from>3</from>&#13;
+			<to>4</to>&#13;
+			<read>@</read>&#13;
+			<write>w</write>&#13;
+			<move>S</move>&#13;
+		</transition>&#13;
+		<!--The list of automata-->&#13;
+		<Machine0/>&#13;
+		<Machine2/>&#13;
+		<Machine1/>&#13;
+		<Machine4/>&#13;
+		<Machine3/>&#13;
+		<note>&#13;
+			<text>Empty C</text>&#13;
+			<x>416.0</x>&#13;
+			<y>111.0</y>&#13;
+		</note>&#13;
+		<note>&#13;
+			<text>Save location in program</text>&#13;
+			<x>97.0</x>&#13;
+			<y>112.0</y>&#13;
+		</note>&#13;
+		<note>&#13;
+			<text>Return to saved location</text>&#13;
+			<x>615.0</x>&#13;
+			<y>112.0</y>&#13;
+		</note>&#13;
+	</automaton>&#13;
 </structure>
