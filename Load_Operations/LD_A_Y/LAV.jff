@@ -46,20 +46,6 @@
 		</block>
 		<!--The list of transitions.-->
 		<transition>
-			<from>7</from>
-			<to>8</to>
-			<read/>
-			<write>-</write>
-			<move>L</move>
-		</transition>
-		<transition>
-			<from>5</from>
-			<to>6</to>
-			<read>-</read>
-			<write>@</write>
-			<move>R</move>
-		</transition>
-		<transition>
 			<from>8</from>
 			<to>8</to>
 			<read>!@</read>
@@ -83,6 +69,13 @@
 			<move>R</move>
 		</transition>
 		<transition>
+			<from>5</from>
+			<to>6</to>
+			<read>-</read>
+			<write>@</write>
+			<move>R</move>
+		</transition>
+		<transition>
 			<from>2</from>
 			<to>2</to>
 			<read>-</read>
@@ -97,11 +90,11 @@
 			<move>R</move>
 		</transition>
 		<transition>
-			<from>2</from>
-			<to>3</to>
-			<read/>
-			<write>1</write>
-			<move>L</move>
+			<from>5</from>
+			<to>1</to>
+			<read>1</read>
+			<write>@</write>
+			<move>R</move>
 		</transition>
 		<transition>
 			<from>6</from>
@@ -117,24 +110,19 @@
 			<write>~</write>
 			<move>R</move>
 		</transition>
-		<transition block="true">
-			<from>5</from>
-			<to>0</to>
-			<read>#</read>
-		</transition>
-		<transition>
-			<from>3</from>
-			<to>5</to>
-			<read>@</read>
-			<write>1</write>
-			<move>R</move>
-		</transition>
 		<transition>
 			<from>6</from>
 			<to>7</to>
 			<read>a</read>
 			<write>a</write>
 			<move>R</move>
+		</transition>
+		<transition>
+			<from>5</from>
+			<to>0</to>
+			<read>#</read>
+			<write>#</write>
+			<move>S</move>
 		</transition>
 		<transition>
 			<from>1</from>
@@ -144,10 +132,24 @@
 			<move>R</move>
 		</transition>
 		<transition>
-			<from>5</from>
-			<to>1</to>
-			<read>1</read>
-			<write>@</write>
+			<from>2</from>
+			<to>3</to>
+			<read/>
+			<write>1</write>
+			<move>L</move>
+		</transition>
+		<transition>
+			<from>7</from>
+			<to>8</to>
+			<read/>
+			<write>-</write>
+			<move>L</move>
+		</transition>
+		<transition>
+			<from>3</from>
+			<to>5</to>
+			<read>@</read>
+			<write>1</write>
 			<move>R</move>
 		</transition>
 		<!--The list of automata-->

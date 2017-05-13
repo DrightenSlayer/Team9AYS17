@@ -1,0 +1,4 @@
+#LAV$11#DA#H	1
+#LAV$#DA#H	-1
+#LAV$-11#DA#H	-111
+#LAV$1#DA#H	(nothing)

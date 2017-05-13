@@ -1,0 +1,11 @@
+#LAV$11#LCV$111#SC#H    -1
+#LAV$11#LCV$-1111#SC#H  111111
+#LAV$11#LCV$#SC#H       11
+#LAV$11#LCV$11#SC#H     (nothing)
+#LAV$-1111#LCV$11#SC#H  -111111
+#LAV$-111#LCV$-11#SC#H  -1
+#LAV$-11#LCV$#SC#H      -11
+#LAV$-11#LCV$11#SC#H    -1111
+#LAV$#LCV$11#SC#H       -11
+#LAV$#LCV$-11#SC#H      11
+#LAV$#LCV$#SC#H         (nothing)

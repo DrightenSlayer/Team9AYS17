@@ -1,0 +1,5 @@
+#LBV$11#DB#LAB#H	1
+#LBV$#DB#LAB#H		-1
+#LBV$-11#DB#LAB#H	-111
+#LBV$1#DB#LAB#H		(nothing)
+

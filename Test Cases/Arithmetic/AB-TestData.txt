@@ -1,0 +1,11 @@
+#LAV$11#LBV$111#AB#H    11111
+#LAV$11#LBV$-1111#AB#H  -11
+#LAV$11#LBV$#AB#H       11
+#LAV$11#LBV$-11#AB#H    (nothing)
+#LAV$-1111#LBV$11#AB#H  -11
+#LAV$-111#LBV$-11#AB#H  -11111
+#LAV$-11#LBV$#AB#H      -11
+#LAV$-11#LBV$11#AB#H    (nothing)
+#LAV$#LBV$11#AB#H       11
+#LAV$#LBV$-11#AB#H      -11
+#LAV$#LBV$#AB#H         (nothing)

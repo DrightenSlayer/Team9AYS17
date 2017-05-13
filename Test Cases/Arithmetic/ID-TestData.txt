@@ -1,0 +1,6 @@
+#LDV$11#ID#LAD#H            111
+#LDV$#ID#LAD#H              1
+#LDV$-11#ID#LAD#H           -1
+#LDV$-1#ID#LAD#H            (nothing)
+#LDV$1111111111#ID#LAD#H    1111111111
+#LDV$-111111111#ID#LAD#H    -11111111

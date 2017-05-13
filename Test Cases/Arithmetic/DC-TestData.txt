@@ -1,0 +1,7 @@
+#LCV$11#DC#LAC#H            1
+#LCV$#DC#LAC#H              -1
+#LCV$-11#DC#LAC#H           -111
+#LCV$1#DC#LAC#H             (nothing)
+#LCV$1111111111#DC#LAC#H    111111111
+#LCV$-111111111#DC#LAC#H    -111111111
+
