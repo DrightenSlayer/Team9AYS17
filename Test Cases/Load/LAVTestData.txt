@@ -1,5 +1,5 @@
-#LAV$111#H      111
-#LAV$-111#H     -111
-#LAV$#H         (nothing)
-#LAV$111#IA#H   1111
-#LAV$-111#IA#H  -11
+#LAV$111#H
+#LAV$-111#H
+#LAV$#H
+#LAV$111#IA#H
+#LAV$-111#IA#H

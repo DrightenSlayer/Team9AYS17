@@ -1,3 +1,3 @@
-#LCV$111#LAC#H  111
-#LCV$-111#LAC#H -111
-#LCV$#LAC#H     (nothing)
+#LCV$111#LAC#H
+#LCV$-111#LAC#H
+#LCV$#LAC#H

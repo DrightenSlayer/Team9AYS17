@@ -1,11 +1,11 @@
-#LAV$11#AV$111#H    11111
-#LAV$11#AV$-1111#H  -11
-#LAV$11#AV$#H       11
-#LAV$11#AV$-11#H    (nothing)
-#LAV$-1111#AV$11#H  -11
-#LAV$-111#AV$-11#H  -11111
-#LAV$-11#AV$#H      -11
-#LAV$-11#AV$11#H    (nothing)
-#LAV$#AV$11#H       11
-#LAV$#AV$-11#H      -11
-#LAV$#AV$#H         (nothing)
+#LAV$11#AV$111#H
+#LAV$11#AV$-1111#H
+#LAV$11#AV$#H
+#LAV$11#AV$-11#H
+#LAV$-1111#AV$11#H
+#LAV$-111#AV$-11#H
+#LAV$-11#AV$#H
+#LAV$-11#AV$11#H
+#LAV$#AV$11#H
+#LAV$#AV$-11#H
+#LAV$#AV$#H

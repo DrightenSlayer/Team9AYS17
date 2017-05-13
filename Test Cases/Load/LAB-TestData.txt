@@ -1,3 +1,3 @@
-#LBV$111#LAB#H  111
-#LBV$-111#LAB#H -111
-#LBV$#LAB#H     (nothing)
+#LBV$111#LAB#H
+#LBV$-111#LAB#H
+#LBV$#LAB#H
