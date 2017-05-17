@@ -18259,7 +18259,7 @@ as well as their return to the proper part of the program.</text>
 			<note>
 				<text>This initiates registers D, B, C, and A respectively.
 Then it returns the machine playhead to the program.</text>
-				<x>0.0</x>
+				<x>2.0</x>
 				<y>0.0</y>
 			</note>
 		</Setup.jff>
